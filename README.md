@@ -1,2 +1,2 @@
-# hulu
-这是个测试
+# maya xgen
+maya xgen头发不在生成面上
